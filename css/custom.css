@@ -1,0 +1,19 @@
+#page-header:not(.not-top-img):before {
+    background-color: transparent !important;
+  }
+
+#footer {
+    background: rgba(255,255,255,0.8) !important;
+  }
+
+#footer-wrap {
+    color: #4c4948 !important;
+}
+
+#footer-wrap a {
+    color: #4c4948 !important;
+}
+
+#page-header {
+    background: transparent !important;
+  }
