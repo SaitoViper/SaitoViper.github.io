@@ -28,7 +28,7 @@
   max-width: 1500px
 }
 
-#categoryBar {
+/* #categoryBar {
   width: 100% !important;
   height: 395px !important;
 }
@@ -39,4 +39,4 @@
 
 #recent-posts > .recent-post-item:nth-child(2) {
   margin-top: 0px !important;
-}
+} */
